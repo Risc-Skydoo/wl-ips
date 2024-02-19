@@ -71,13 +71,6 @@ function Set-PersistentScheduledTask {
     Write-Log "La tâche planifiée '$TaskName' a été créée et s'exécutera toutes les $RepeatIntervalMinutes minutes."
 }
 
-# Vérifie si le fichier de Log existe
-if (-not (Test-Path -Path $logPath)) {
-    # Crée le fichier s'il n'existe pas
-    $null = New-Item -Path $logPath -ItemType File
-    Write-Log "Fichier log créé à : $logPath"
-}
-
 # Fonction pour écrire dans le journal
 function Write-Log {
     param ([string]$message)
@@ -176,6 +169,14 @@ function Clear-Attempts {
 }
 
 # Début du script
+
+# Vérifie si le fichier de Log existe
+if (-not (Test-Path -Path $logPath)) {
+    # Crée le fichier s'il n'existe pas
+    $null = New-Item -Path $logPath -ItemType File
+    Write-Log "Fichier log créé à : $logPath"
+}
+
 Clean-Log -logPath $logPath -days 1
 Write-Log "Début de l'exécution du script."
 Set-PersistentScheduledTask -TaskName $taskName -ScriptPath $scriptPath -RepeatIntervalMinutes 10
