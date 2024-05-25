@@ -1,180 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="LaUne.be" tvg-name="| BE-PX | LA UNE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtbf_la_une.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | LA UNE FHD
+#EXTINF:-1 tvg-ID="LaUne.be" tvg-name="LA UNE" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtbf_la_une.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | LA UNE FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/277
-#EXTINF:-1 tvg-ID="LaTrois.be" tvg-name="| BE-PX | LA TROIS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtbf_la_trois.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | LA TROIS FHD
+#EXTINF:-1 tvg-ID="LaTrois.be" tvg-name="LA TROIS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtbf_la_trois.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | LA TROIS FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/279
-#EXTINF:-1 tvg-ID="Tipik.be" tvg-name="| BE-PX | TIPIK FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tipik-tv-be.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | TIPIK FHD
+#EXTINF:-1 tvg-ID="Tipik.be" tvg-name="TIPIK" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tipik-tv-be.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | TIPIK FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1850
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  | TIPIK VISION" tvg-logo="" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | TIPIK VISION
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254565
-#EXTINF:-1 tvg-ID="ClubRTL.be" tvg-name="| BE-PX | CLUB RTL FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/club_rtl.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | CLUB RTL FHD
+#EXTINF:-1 tvg-ID="ClubRTL.be" tvg-name="CLUB RTL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/club_rtl.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | CLUB RTL FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/293
-#EXTINF:-1 tvg-ID="RTLTVI.be" tvg-name="| BE-PX | RTL TVI FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl_tvi.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | RTL TVI FHD
+#EXTINF:-1 tvg-ID="RTLTVI.be" tvg-name="RTL TVI" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtl_tvi.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | RTL TVI FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/12228
-#EXTINF:-1 tvg-ID="Plug RTL BE" tvg-name="| BE-PX | PLUG RTL HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/plug_rtl.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | PLUG RTL HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1053
-#EXTINF:-1 tvg-ID="PlugRTL.be" tvg-name="|BE-PX| PLUG RTL HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/plug_rtl.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| PLUG RTL HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/211990
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| BEL FHD" tvg-logo="https://play-lh.googleusercontent.com/bcYDJt2y6mk1N9mUlnxYNAeixS6L75P0CW-wOUepP1KHMOt8BCEozHO_dszkASKSv8o" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| BEL FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/211979
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX | RTC LIEGE FHD" tvg-logo="https://www.rtc.be/files/images/logo_rtc.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | RTC LIEGE FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212027
-#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="| BE-PX | AB1 HD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/ab1.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | AB1 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/10183
-#EXTINF:-1 tvg-ID="ab3.fr" tvg-name="| BE-PX | AB3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ab-3-fr-be.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | AB3 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/10182
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX | AB XPLORE FHD" tvg-logo="https://cdn.tv-programme.com/pic/chaines/114.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | AB XPLORE FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/14131
-#EXTINF:-1 tvg-ID="BeCine1.be" tvg-name="| BE-PX |BE CINE FHD" tvg-logo="https://cdn.tv-programme.com/pic/chaines/101.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX |BE CINE FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/274
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| BX1 HD" tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| BX1 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/211994
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| MONT BLANC TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mont-blanc-live-tv-fr.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| MONT BLANC TV HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212010
-#EXTINF:-1 tvg-ID="CanalZ.be" tvg-name="|BE-PX| CANAL Z FHD" tvg-logo="data:image/jpeg;base64,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" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| CANAL Z FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212032
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| Play Sports Premier League HD" tvg-logo="" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| Play Sports Premier League HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/211999
-#EXTINF:-1 tvg-ID="arte.fr" tvg-name="| BE-PX  | ARTE" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte_fr.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | ARTE
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254558
-#EXTINF:-1 tvg-ID="c8.fr" tvg-name="| BE-PX  | C8" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_c_8.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | C8
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254557
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| LN24 HD" tvg-logo="https://www.static.rtbf.be/tv/media/images/logo/program/partners/ln24.png?v=1" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| LN24 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212002
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| TV5 MONDE FBS HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-france-belgique-suisse-fr-be-ch.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| TV5 MONDE FBS HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212009
-#EXTINF:-1 tvg-ID="lci.fr" tvg-name="| BE-PX  | LCI" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lci-fr.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | LCI
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254554
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| EURONEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| EURONEWS HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212007
-#EXTINF:-1 tvg-ID="trek.fr" tvg-name="| BE-PX  | TREK" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trek_fr.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | TREK
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254550
-#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="| BE-PX  | TMC" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tmc-fr.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | TMC
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254549
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  | PLAY 4" tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-4-be.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | PLAY 4
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254307
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  | PLAY 6" tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-6-be.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | PLAY 6
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254305
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  | PLAY 7" tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-7-be.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | PLAY 7
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254304
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  | Play Sports Golf HD" tvg-logo="" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | Play Sports Golf HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254306
-#EXTINF:-1 tvg-ID="ElevenProLeague1FR.be" tvg-name="|BE-PX| ELEVEN PRO LEAGUE 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-pro-league-1-nl-uk-be.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| ELEVEN PRO LEAGUE 1 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/52913
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| ELEVEN PROLEAGUE 1 HD" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_pro_league_1.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| ELEVEN PROLEAGUE 1 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212020
-#EXTINF:-1 tvg-ID="ElevenProLeague2FR.be" tvg-name="| BE-PX | ELEVEN PRO LEAGUES 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-pro-league-2-595.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | ELEVEN PRO LEAGUES 2 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/31654
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| ELEVEN PROLEAGUE 2 HD" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_pro_league_2.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| ELEVEN PROLEAGUE 2 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212021
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX | ELEVEN PRO LEAGUES 3 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-pro-league-3-596.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | ELEVEN PRO LEAGUES 3 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/22537
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| ELEVEN PROLEAGUE 3 HD" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_pro_league_2.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| ELEVEN PROLEAGUE 3 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212022
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  | ELEVEN PRO LEAGUE 1 (NL)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-pro-league-1-nl-uk-be.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | ELEVEN PRO LEAGUE 1 (NL)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254546
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  | ELEVEN PRO  LEAGUE 2 (NL)" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_pro_league_2.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | ELEVEN PRO  LEAGUE 2 (NL)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254545
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  |  ELEVEN PRO LEAGUE 3 (NL)" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_pro_league_3.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  |  ELEVEN PRO LEAGUE 3 (NL)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254544
-#EXTINF:-1 tvg-ID="ELEVENSp1" tvg-name="| BE-PX | ELEVEN SPORT 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | ELEVEN SPORT 1 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/10815
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| ELEVEN SPORTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| ELEVEN SPORTS 1 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212017
-#EXTINF:-1 tvg-ID="ELEVENSp2" tvg-name="| BE-PX | ELEVEN SPORT 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | ELEVEN SPORT 2 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/10816
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| ELEVEN SPORTS 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| ELEVEN SPORTS 2 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212018
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX | ELEVEN SPORT 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | ELEVEN SPORT 3 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/275
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX|  ELEVEN SPORT 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX|  ELEVEN SPORT 3 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212019
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  | ELEVEN SPORTS 1 (NL)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | ELEVEN SPORTS 1 (NL)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254540
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  |  ELEVEN SPORTS 2 (NL)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  |  ELEVEN SPORTS 2 (NL)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254541
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  | ELEVEN SPORTS 3 (NL)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | ELEVEN SPORTS 3 (NL)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254542
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX | VOO SPORT 1 FHD" tvg-logo="https://sport-tv-guide.live/images/tv-station-voo-sport-1-1157.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | VOO SPORT 1 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1849
-#EXTINF:-1 tvg-ID="VOOsport2.be" tvg-name="| BE-PX | VOO SPORT 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-voo-sport-1-1158.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX | VOO SPORT 2 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/2735
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| VOO SPORT WORLD 1 FHD" tvg-logo="https://tvepg.eu/img/luxembourg/logo/voo_sport_world_1.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| VOO SPORT WORLD 1 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/9238
-#EXTINF:-1 tvg-ID="VOOsportWorld1.be" tvg-name="|BE-PX| VOO SPORT WORLD 1 HD" tvg-logo="https://tvepg.eu/img/belgium/logo/voo_sport_world_1.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| VOO SPORT WORLD 1 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212023
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| VOO SPORT WORLD 1 FHD" tvg-logo="https://sport-tv-guide.live/images/tv-station-voo-sport-1-1157.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| VOO SPORT WORLD 1 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/10163
-#EXTINF:-1 tvg-ID="VOOsportWorld2.be" tvg-name="|BE-PX| VOO SPORT WORLD 2 HD" tvg-logo="https://tvepg.eu/img/belgium/logo/voo_sport_world_2.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| VOO SPORT WORLD 2 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212024
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| VOO SPORT WORLD 2" tvg-logo="https://sport-tv-guide.live/images/tv-station-voo-sport-world-2-800.png" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| VOO SPORT WORLD 2
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/10162
-#EXTINF:-1 tvg-ID="VOOsportWorld3.be" tvg-name="|BE-PX| VOO SPORT WORLD 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/33/VOOsport-World-3.jpg" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| VOO SPORT WORLD 3 HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212025
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| VOO SPORT WORLD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/33/VOOsport-World-3.jpg" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| VOO SPORT WORLD 3
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/10161
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| PLAY SPORT 1 FHD" tvg-logo="https://cdn.uc.assets.prezly.com/e2151d72-b0be-448a-a1b1-0269f7b027ac/-/format/auto/" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| PLAY SPORT 1 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/116155
-#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="| BE-PX  | EUROSPORT 1  (FR)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | EUROSPORT 1  (FR)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254536
-#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="| BE-PX  | EUROSPORT 2 (FR)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-2-fr.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | EUROSPORT 2 (FR)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254538
-#EXTINF:-1 tvg-ID="Extreme Sports Channel NL" tvg-name="| BE-PX  | EXTREME SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | EXTREME SPORT
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254543
-#EXTINF:-1 tvg-ID="automotolachaine.fr" tvg-name="| BE-PX  | AUTO  MOTOR SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/auto-motor-und-sport-de.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | AUTO  MOTOR SPORT
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254535
-#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="| BE-PX  | SCIENCES & VIE HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/science-and-vie-tv-fr.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | SCIENCES & VIE HD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254532
-#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="| BE-PX  | NAT GEO WILD (FR)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | NAT GEO WILD (FR)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254530
-#EXTINF:-1 tvg-ID="NatGeoZiggo.nl" tvg-name="| BE-PX  | NAT GEO (NL)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | NAT GEO (NL)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254529
-#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="| BE-PX  | NAT GEO (FR)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | NAT GEO (FR)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254528
-#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="| BE-PX  | DISCOVERY  (FR)" tvg-logo="https://www.cableman.ru/sites/default/files/discovery.jpg?1642258269" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | DISCOVERY  (FR)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254526
-#EXTINF:-1 tvg-ID="crimedistrict.fr" tvg-name="| BE-PX  | CRIME DISTRICT" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_district_fr.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | CRIME DISTRICT
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254525
-#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="| BE-PX  | ANIMAUX" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animaux_fr.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | ANIMAUX
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254522
-#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="| BE-PX  | E! (FR)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/e-us.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | E! (FR)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254513
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  | Dobbit TV" tvg-logo="" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | Dobbit TV
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254511
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-TNET | Play More Black" tvg-logo="" group-title="EU | BELGIQUE TELENET",| BE-TNET | Play More Black
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254616
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-TNET| Play More Cinema" tvg-logo="" group-title="EU | BELGIQUE TELENET",| BE-TNET| Play More Cinema
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254473
-#EXTINF:-1 tvg-ID="" tvg-name="|BE-TNET| Play More Kicks" tvg-logo="" group-title="EU | BELGIQUE TELENET",|BE-TNET| Play More Kicks
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212029
-#EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="| BE-PX  | DISNEY JR (FR)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | DISNEY JR (FR)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254491
-#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="| BE-PX  | DISNEY (FR)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-la-chaine-us-ca.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | DISNEY (FR)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254489
-#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="| BE-PX  | CARTOON METWORK (FR)" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | CARTOON METWORK (FR)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254487
-#EXTINF:-1 tvg-ID="" tvg-name="| BE-PX  | BABY TV (NL)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | BABY TV (NL)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254486
-#EXTINF:-1 tvg-ID="rfmtv.fr" tvg-name="| BE-PX  | RFM TV" tvg-logo="https://www.lyngsat.com/logo/radio/rr/rfm_fr.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | RFM TV
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254484
-#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="| BE-PX  | MTV Live" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-live-us.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | MTV Live
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254482
-#EXTINF:-1 tvg-ID="mtvhitsfrance.fr" tvg-name="| BE-PX  | MTV Hits" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-hits-us.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | MTV Hits
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254481
-#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="| BE-PX  | MTV (FR)" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | MTV (FR)
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254478
-#EXTINF:-1 tvg-ID="mezzolive.fr" tvg-name="| BE-PX  | Mezzo Live" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mezzo_live_hd.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | Mezzo Live
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254477
 
-#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="EU | FRANCE GENERAL",|FR| TF1 FHD
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="EU | FRANCE GENERAL",|FR| TF1 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/9561
-#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france2-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 2 FHD
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="FRANCE 2" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france2-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 2 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1502
-#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france3-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 3 FHD
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="FRANCE 3" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france3-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 3 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/613
-#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 4 FHD
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="FRANCE 4" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 4 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1504
-#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 5 FHD
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="FRANCE 5" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 5 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1505
-#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/M6_new2020.png" group-title="EU | FRANCE GENERAL",|FR| M6 FHD
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="M6" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/M6_new2020.png" group-title="EU | FRANCE GENERAL",|FR| M6 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/9562
