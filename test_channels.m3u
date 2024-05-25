@@ -35,16 +35,6 @@ http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212010
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/212032
 #EXTINF:-1 tvg-ID="" tvg-name="|BE-PX| Play Sports Premier League HD" tvg-logo="" group-title="EU | BELGIQUE PROXIMUS",|BE-PX| Play Sports Premier League HD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/211999
-#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="| BE-PX  | TF1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tf1.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | TF1
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254563
-#EXTINF:-1 tvg-ID="france2.fr" tvg-name="| BE-PX  | FRANCE 2" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france-2-fr.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | FRANCE 2
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254562
-#EXTINF:-1 tvg-ID="france3.fr" tvg-name="| BE-PX  | FRANCE 3" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france-3-fr.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | FRANCE 3
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254561
-#EXTINF:-1 tvg-ID="france4.fr" tvg-name="| BE-PX  | FRANCE  4" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france-4-fr.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | FRANCE  4
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254560
-#EXTINF:-1 tvg-ID="france5.fr" tvg-name="| BE-PX  | FRANCE 5" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france-5-fr.svg" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | FRANCE 5
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254559
 #EXTINF:-1 tvg-ID="arte.fr" tvg-name="| BE-PX  | ARTE" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte_fr.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | ARTE
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254558
 #EXTINF:-1 tvg-ID="c8.fr" tvg-name="| BE-PX  | C8" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_c_8.png" group-title="EU | BELGIQUE PROXIMUS",| BE-PX  | C8
@@ -178,3 +168,13 @@ http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254477
 
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="EU | FRANCE GENERAL",|FR| TF1 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/9561
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 2 FHD
+http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1502
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/100px-France_3_2018.svg.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 3 FHD
+http://bella-store.org:2052/k44eku0i4n/mod1gtjl/613
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 4 FHD
+http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1504
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/100px-France_5_2018.svg.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 5 FHD
+http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1505
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/M6_new2020.png" group-title="EU | FRANCE GENERAL",|FR| M6 FHD
+http://bella-store.org:2052/k44eku0i4n/mod1gtjl/9562
