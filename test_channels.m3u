@@ -168,13 +168,13 @@ http://bella-store.org:2052/k44eku0i4n/mod1gtjl/254477
 
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/TF1.png" group-title="EU | FRANCE GENERAL",|FR| TF1 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/9561
-#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 2 FHD
-http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1502
-#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/100px-France_3_2018.svg.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 3 FHD
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 UHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france2-fr.png" group-title="EU | FRANCE UHD - 4K",|FR| FRANCE 2 UHD
+http://bella-store.org:2052/k44eku0i4n/mod1gtjl/492167
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france3-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 3 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/613
 #EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 4 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1504
-#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/100px-France_5_2018.svg.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 5 FHD
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france4-fr.png" group-title="EU | FRANCE GENERAL",|FR| FRANCE 5 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/1505
 #EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 FHD" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/M6_new2020.png" group-title="EU | FRANCE GENERAL",|FR| M6 FHD
 http://bella-store.org:2052/k44eku0i4n/mod1gtjl/9562
